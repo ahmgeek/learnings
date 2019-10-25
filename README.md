@@ -28,3 +28,7 @@ Links for things I learn everyday
 ### HTTP
 #### OAuth
 [Illustrated Guide to OAuth and OpenID](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
+
+
+### Mathematics
+[http://tomasp.net/blog/2018/alien-lambda-calculus/](Would aliens understand lambda calculus?)
