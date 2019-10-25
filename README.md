@@ -31,4 +31,4 @@ Links for things I learn everyday
 
 
 ### Mathematics
-[http://tomasp.net/blog/2018/alien-lambda-calculus/](Would aliens understand lambda calculus?)
+[Would aliens understand lambda calculus?](http://tomasp.net/blog/2018/alien-lambda-calculus)
