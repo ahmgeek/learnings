@@ -1,7 +1,7 @@
 # Learnings
 Links for things I learn everyday
 
-# Systems
+## Systems
 
 ### Processes
 [htop explained](https://peteris.rocks/blog/htop/)
@@ -17,7 +17,7 @@ Links for things I learn everyday
 [The Complete System Administrator Guide](https://devconnected.com/syslog-the-complete-system-administrator-guide/)
 
 
-# Programming
+## Programming
 ### Network programming
 [Network Programming with Go](http://tumregels.github.io/Network-Programming-with-Go/)
 
@@ -25,6 +25,6 @@ Links for things I learn everyday
 [Build Your Own Container Using Less than 100 Lines of Go](https://www.infoq.com/articles/build-a-container-golang/)
 [Debugging Docker builds](https://www.joyfulbikeshedding.com/blog/2019-08-27-debugging-docker-builds.html)
 
-# HTTP
+## HTTP
 ### OAuth
 [Illustrated Guide to OAuth and OpenID](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
