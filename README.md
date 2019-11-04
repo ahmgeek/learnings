@@ -16,6 +16,8 @@ Links for things I learn everyday
 #### Logging
 [The Complete System Administrator Guide](https://devconnected.com/syslog-the-complete-system-administrator-guide/)
 
+#### DevOPS
+[DevOps Guide from basic to advanced](https://github.com/Tikam02/DevOps-Guid)
 
 ### Programming
 #### Network programming
@@ -30,7 +32,6 @@ Links for things I learn everyday
 [Illustrated Guide to OAuth and OpenID](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
 #### CURL
 [Everything curl](https://curl.haxx.se/book.html)
-
 
 ### Mathematics
 [Would aliens understand lambda calculus?](http://tomasp.net/blog/2018/alien-lambda-calculus)
