@@ -28,6 +28,8 @@ Links for things I learn everyday
 ### HTTP
 #### OAuth
 [Illustrated Guide to OAuth and OpenID](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
+#### CURL
+[Everything curl](https://curl.haxx.se/book.html)
 
 
 ### Mathematics
