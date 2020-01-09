@@ -30,6 +30,10 @@ Links for things I learn everyday
 ### HTTP
 #### OAuth
 [Illustrated Guide to OAuth and OpenID](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
+
+### QUIC
+[How Multiplexing Changes Your HTTP APIs](https://www.mnot.net/blog/2019/10/13/h2_api_multiplexing)
+
 #### CURL
 [Everything curl](https://curl.haxx.se/book.html)
 
